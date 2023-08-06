@@ -4,3 +4,7 @@ Your charity is responsible for avalanche-rescue operations at hiking trails acr
 
 * Build a Simple Logistic Regression Model
 <br> https://github.com/Pragna235/Predicting-Avalanches-with-Machine-Learning/blob/main/Build_a_Simple_Logistic_Regression_Model.ipynb
+
+* Assessing a Logistic Regression Model
+<br> log loss, MSE Cost functions as used
+<br> https://github.com/Pragna235/Predicting-Avalanches-with-Machine-Learning/blob/main/Assessing_a_Logistic_Regression_Model.ipynb
